@@ -1,3 +1,3 @@
 ## Portfolyo
 
-["a"](./public/port.gif)
+![](public/port.gif)
