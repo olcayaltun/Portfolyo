@@ -8,7 +8,7 @@ import {
   faJsSquare,
   faReact,
 } from "@fortawesome/free-brands-svg-icons";
-import SvgMain from "../components/svgMain";
+import SvgMain from "../components/SvgMain";
 import { SiTailwindcss } from "react-icons/si";
 import { FaBootstrap } from "react-icons/fa";
 import { RiNodejsLine } from "react-icons/ri";

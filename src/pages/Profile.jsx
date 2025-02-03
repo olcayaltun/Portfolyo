@@ -1,5 +1,5 @@
 import React from "react";
-import SvgMain from "../components/svgMain";
+import SvgMain from "../components/SvgMain";
 import Header from "../components/Header";
 import Animat from "../components/Animat";
 import Mensch from "../components/Mensch";

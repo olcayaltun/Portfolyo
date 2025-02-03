@@ -1,6 +1,6 @@
 import React, { useEffect } from "react";
 import ImgSleider from "../components/ImgSleider";
-import SvgMain from "../components/svgMain";
+import SvgMain from "../components/SvgMain";
 import { GiFilmProjector } from "react-icons/gi";
 import { Link } from "react-router-dom";
 const Project = () => {
